@@ -56,7 +56,7 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 
 ## 42 School
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/gkamanur?1337Badge=off&UM6P=off" alt="gkamanur's 42 stats" /></a>
+[![gkamanur's 42 stats](https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
