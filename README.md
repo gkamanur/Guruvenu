@@ -56,7 +56,7 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 
 ## 42 School
 
-[![gkamanur's 42 stats](https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off
 
 ---
 
