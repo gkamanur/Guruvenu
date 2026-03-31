@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1440" height="424" alt="image" src="https://github.com/user-attachments/assets/94ae30a2-8174-4085-ab7f-151f9ad27482" />
 
 # 👋 Hello, I'm Guruvenu Kamanuru
 
@@ -20,6 +21,8 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 ---
 
 ## 🚀 Skills & Technologies
+<img width="1440" height="422" alt="image" src="https://github.com/user-attachments/assets/4466a789-fc69-4217-b2c9-e0a337648909" />
+
 
 **Key Areas:**
 `SIEM / ELK Stack` · `SOC Operations` · `Incident Response` · `HIPAA Compliance`
@@ -56,15 +59,7 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off" alt="gkamanur's 42 stats" /></a>
 
----
 
-## 📈 GitHub Stats
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=guruvenu-kamanuru&theme=dark&background=000000" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=guruvenu-kamanuru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruvenu-kamanuru&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-
----
 
 ## 📫 Connect with Me
 
