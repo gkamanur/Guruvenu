@@ -21,8 +21,6 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 
 ## 🚀 Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,docker,git,elasticsearch,kibana,postgresql,redis,fastapi,react,prometheus,grafana&perline=8&theme=dark)](https://skillicons.dev)
-
 **Key Areas:**
 `SIEM / ELK Stack` · `SOC Operations` · `Incident Response` · `HIPAA Compliance`
 `Mainframe (COBOL/JCL/DB2)` · `Python` · `FastAPI` · `Docker` · `DevOps` · `AI Integration`
@@ -56,7 +54,7 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 
 ## 42 School
 
-https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/gkamanur?1337Badge=off&UM6P=off" alt="gkamanur's 42 stats" /></a>
 
 ---
 
