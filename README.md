@@ -33,16 +33,12 @@ I'm a **Security-focused IT professional** transitioning into **DevOps Engineeri
 ## 🌱 Current Focus
 
 - 🔧 Building **OpsSight** — an AI-powered DevOps observability platform (FastAPI, React, PostgreSQL/TimescaleDB, Prometheus, Grafana, Loki, OpenTelemetry, Groq Llama3, Gemini Flash)
-- 📚 Completing **42 School** curriculum: CPP modules, Webserv (HTTP/1.1 server in C++98), ft_transcendence
-- 🛡️ **CompTIA Security+** certification (completed April 2025)
+- 📚 Completing **42 School** curriculum: CPP modules, Webserv (HTTP/1.1 server in C++98), ft_transcendence)
 - 🐍 Deepening Python skills for backend and AI application development
 
 ---
 
 ## 📂 Notable Projects
-
-- **OpsSight** – FastAPI, React, PostgreSQL/TimescaleDB, Redis, Celery, Prometheus, Grafana, Loki, OpenTelemetry, Groq Llama3, Gemini Flash, ChromaDB  
-  AI-powered DevOps observability platform with RAG-based log intelligence and hybrid local/cloud LLM architecture. Doubles as 42 ft_transcendence submission.
 
 - **Webserv** – C++98, epoll, HTTP/1.1, UNIX Sockets  
   Production-grade HTTP/1.1 web server built from scratch with an epoll event loop. 42 School project.
